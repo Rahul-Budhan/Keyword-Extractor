@@ -54,8 +54,8 @@ Copy code
 npm run start or npm run dev
 `
 ## Images:
-![SS1]([http://url/to/img.png](https://github.com/Rahul-Budhan/Keyword-Extractor/blob/main/src/assets/Screenshot%201.PNG))
-![SS2]([http://url/to/img.png](https://github.com/Rahul-Budhan/Keyword-Extractor/blob/main/src/assets/Screenshot%202.PNG))
+![SS1]([http://url/to/img.png](https://github.com/Rahul-Budhan/Keyword-Extractor/blob/main/src/assets/Screenshot%201.PNG?raw=true))
+![SS2]([http://url/to/img.png](https://github.com/Rahul-Budhan/Keyword-Extractor/blob/main/src/assets/Screenshot%202.PNG?raw=true))
 
 ## Acknowledgements
 OpenAI for providing the language model.
